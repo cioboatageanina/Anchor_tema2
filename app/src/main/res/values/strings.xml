@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Anchor</string>
+    <string name="tb_text">By continuing, you agree to our Terms of Service and Privacy Policy.</string>
+    <string name="btn_Login">Log In</string>
+    <string name="btn_login">Log In</string>
+    <string name="log_in_to_an_existing_account">Log in to an existing account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_and_get_started_n_on_your_own_podcast">Sign up and get started\n on your own podcast!</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="txtView">Discover</string>
+    <string name="sing_up_with_email_instead">Sing up with email instead</string>
+    <string name="discover">"      Discover"</string>
+    <string name="search">Search for podcasts or keywords</string>
+    <string name="search_for_podcasts_or_keywords">Search for podcasts or keywords</string>
+</resources>
